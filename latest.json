@@ -1,0 +1,11 @@
+{
+  "version": "0.2.4",
+  "notes": "LEVUP v0.2.4 — npm run release:desktop 자동 배포.",
+  "pub_date": "2026-07-19T14:55:28.049Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVDlRc0JuMGJXRWpsZkRXekVYN2xZc2FpeXpTcEF1S0hwa0lXbXRLUDJyZ1hFdGo4YWRNRWtMdkJ2Ymo5REZLaEtxcVdhT3ZnOC9ySmp3K1FoUFA0eGg1VEVFTzl2MXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDcyODI0CWZpbGU6TEVWVVBfMC4yLjRfeDY0LXNldHVwLmV4ZQpzU3dLRTlJemZsL3kzZzRxZ1pzelNhK0h0eGdUNEl6dkpWZ1J6WTl5a3V2WnpOSXllYUoxRER3S0NySlpuU3lNUzB0T1QveElUWFA4RGQ5cHMwUjNBQT09Cg==",
+      "url": "https://github.com/ngsk2784-lab/levup-releases/releases/download/v0.2.4/LEVUP_0.2.4_x64-setup.exe"
+    }
+  }
+}
