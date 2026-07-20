@@ -1,11 +1,11 @@
 {
-  "version": "0.2.10",
-  "notes": "LEVUP v0.2.10 — npm run release:desktop 자동 배포.",
-  "pub_date": "2026-07-20T16:09:46.233Z",
+  "version": "0.2.12",
+  "notes": "LEVUP v0.2.12 — npm run release:desktop 자동 배포.",
+  "pub_date": "2026-07-20T16:18:14.675Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVDlRc0JuMGJXRXZkLzBGNndwR2Z5bENHbHVhUGxsMXBSNnlhK1BqUnQ1VFJmWUZaZHY2Uko3a1h0Z0QzbEZudFVBczlpcmttb1hMWGlabDJhRDF4cC9CS0NsdU5QMlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTYzNzc3CWZpbGU6TEVWVVBfMC4yLjEwX3g2NC1zZXR1cC5leGUKTXJtbXUrT2l1b0kvaE5ycWt5ZmYxMGo2OFZldDBDeGhmOU96K3dXaEdGY05HU0lXb1cyUzNFcnVkcTltUmFZczdDeGdUK2xJT1l5TlcyU3ZlSVNDQmc9PQo=",
-      "url": "https://github.com/ngsk2784-lab/levup-releases/releases/download/v0.2.10/LEVUP_0.2.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSVDlRc0JuMGJXRW5OdTA0VFBlUjNDSW85K3docVM3WDliY3N6eE9lRDFRa1B3aXF5NW01NGJFL0U5aDFQTm9TNG5BYUc0L0hBaXlaSnRKS1N3WFZ1TjlLaVErVm42NWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTY0Mjg2CWZpbGU6TEVWVVBfMC4yLjEyX3g2NC1zZXR1cC5leGUKa1dZR3ZWbDVEMDRWV2F4L0FiYkNBc2ZUNmZRUjBEWjlnOCtKbUVUZUx3RnBXUDBRcXVkRU9TZ3cra3g5TlJsTGh5WGJIcTBoeTM5OUdtY2d1RWo2Q3c9PQo=",
+      "url": "https://github.com/ngsk2784-lab/levup-releases/releases/download/v0.2.12/LEVUP_0.2.12_x64-setup.exe"
     }
   }
 }
