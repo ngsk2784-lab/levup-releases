@@ -54,7 +54,7 @@
             { "id": "spider", "weight": 1 }
           ],
           "spawnDistance": 100,
-          "mobsPerFloor": 2
+          "mobsPerFloor": 10
         }
       }
     }
